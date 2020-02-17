@@ -29,18 +29,3 @@ Body :
     "image": null,
     "discountedPrice": 0
 }
-2) http://localhost:8080/shopping/offer -- Result : Failure, and returns error message - Offer id is already exist
-{
-    "termsAndConditions": null,
-    "vat": 0,
-    "discountPercentage": 0,
-    "createDate": "2020-02-15T19:58:54.141+0000",
-    "prodId": 1,
-    "name": "DELL laptop",
-    "price": 400,
-    "currency": null,
-    "description": "DELL Inspiron",
-    "shippingAddress": null,
-    "image": null,
-    "discountedPrice": 0
-}
