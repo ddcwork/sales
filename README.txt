@@ -4,7 +4,7 @@ The JUnit tests have been written only for controller and validation where there
 For Database code there are no tests written, since that is an embedded database having crud operations.
 
 CreateOffer for a product has been implemented by assuming offer information is available in embedded database.
-Exception handling, JUnit tests have been implemented in this project with OOP concepts.
+Exception handling, JUnit tests have been implemented in this project.
 
 URL pattern to Test:
 
