@@ -1,9 +1,9 @@
-This project has been done by using technologies java, spring boot, rest webservice and sqLite as data base.
+This project has been done by using technologies java, spring boot, rest webservice and sqLite as database.
 
 The JUnit tests have been written only for controller and validation where there is some logic to test, and rest of beans and service classes test have not been written.
-For Data Base code there are no tests written, since that is an embedded data base having crud operations.
+For Data Base code there are no tests written, since that is an embedded database having crud operations.
 
-CreateOffer for a product has been implemented by assuming offer information is available in embedded data base.
+CreateOffer for a product has been implemented by assuming offer information is available in embedded database.
 Exception handling, JUnit tests have been implemented in this project with OOP concepts.
 
 URL pattern to Test:
