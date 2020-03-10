@@ -6,6 +6,10 @@ import org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoC
 import org.springframework.web.servlet.DispatcherServlet;
 import org.springframework.context.annotation.Bean;
 
+/**
+ * SalesApplication, spring boot application class, used to start up spring container,
+ * contains beans to register with application
+ */
 @SpringBootApplication
 public class SalesApplication {
 

@@ -2,6 +2,9 @@ package com.shop.sales.entity;
 
 import org.springframework.stereotype.Component;
 
+/**
+ * Product, entity class for Product table
+ */
 @Component
 public class Product {
 

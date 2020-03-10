@@ -4,6 +4,9 @@ import org.springframework.stereotype.Component;
 
 import java.util.Date;
 
+/**
+ * Offer, is the bean class for offer entity
+ */
 @Component
 public abstract class Offer {
 

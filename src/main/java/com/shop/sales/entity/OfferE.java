@@ -4,6 +4,9 @@ import org.springframework.stereotype.Component;
 
 import java.sql.Date;
 
+/**
+ * OfferE, entity class for Offer table
+ */
 @Component
 public class OfferE {
 

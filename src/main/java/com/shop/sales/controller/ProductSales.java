@@ -9,6 +9,9 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
+/**
+ * Product sales controller, contains the end-points to product sales
+ */
 @RestController
 @RequestMapping("shopping")
 public class ProductSales {

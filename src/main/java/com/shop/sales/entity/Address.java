@@ -2,6 +2,9 @@ package com.shop.sales.entity;
 
 import org.springframework.stereotype.Component;
 
+/**
+ * Address, entity class for address table
+ */
 @Component
 public class Address {
 

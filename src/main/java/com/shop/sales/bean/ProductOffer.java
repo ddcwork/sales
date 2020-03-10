@@ -4,6 +4,9 @@ import com.shop.sales.entity.Address;
 import com.shop.sales.entity.Currency;
 import org.springframework.stereotype.Component;
 
+/**
+ * Product Offer, is the bean class for product offer entity
+ */
 @Component
 public class ProductOffer extends Offer {
 

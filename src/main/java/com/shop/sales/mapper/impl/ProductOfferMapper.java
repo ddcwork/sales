@@ -9,6 +9,9 @@ import org.springframework.stereotype.Component;
 
 import java.util.Date;
 
+/**
+ * ProductOfferMapper, mapper class for product offer
+ */
 @Component
 public class ProductOfferMapper implements EntityMapper<ProductOffer, OfferE> {
 

@@ -16,6 +16,9 @@ import java.time.temporal.ChronoUnit;
 import java.util.Date;
 import java.util.Random;
 
+/**
+ * ProductOfferServiceImpl, service implementation class for Product Offer
+ */
 @Service
 public class ProductOfferServiceImpl implements OfferService<ProductOffer> {
 

@@ -2,6 +2,9 @@ package com.shop.sales.entity;
 
 import org.springframework.stereotype.Component;
 
+/**
+ * Currency, entity class for Currency table
+ */
 @Component
 public class Currency {
 

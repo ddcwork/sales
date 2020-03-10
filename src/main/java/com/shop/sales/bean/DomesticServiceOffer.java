@@ -4,6 +4,9 @@ import com.shop.sales.entity.Currency;
 import com.shop.sales.utility.ServiceType;
 import org.springframework.stereotype.Component;
 
+/**
+ * DomesticServiceOffer, is the bean class for Domestic Service offer entity
+ */
 @Component
 public class DomesticServiceOffer extends Offer {
 

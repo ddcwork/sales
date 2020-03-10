@@ -15,6 +15,10 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 
+/**
+ * SalesRepository, repository class for sales
+ * it contains interfaces to do crud operations for sales
+ */
 @Component
 public class SalesRepository {
 
